@@ -22,6 +22,11 @@ OctoAcme projects follow a structured lifecycle:
 
 ## Key Processes
 
+### [Project Management Overview](octoacme-project-management-overview.md)
+Concise introduction to how OctoAcme runs projects, including core roles, key artifacts, and the high-level project lifecycle. Start here to understand the framework.
+- **Core roles**: Project Manager (PM), Product Manager (PdM), Developers, QA/Testing, Stakeholders
+- **Key artifacts**: Project Charter, Roadmap, Sprint Backlog, Risk Register, Retrospectives
+
 ### [Project Initiation Guide](octoacme-project-initiation.md)
 Define initial steps to validate work, align stakeholders, and create a lightweight plan. Use this when a new project idea or feature proposal is ready to be explored.
 - **Key deliverables**: One-pager, stakeholder list, timeline, risk list, resource needs
@@ -58,6 +63,7 @@ Define typical roles and responsibilities used in OctoAcme projects. Understand 
 
 ## How to Use These Docs
 
+- **First time here?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand the framework and key roles
 - **Starting a new project?** Begin with the [Project Initiation Guide](octoacme-project-initiation.md) to define the business need and align stakeholders
 - **In planning phase?** Follow the [Project Planning](octoacme-project-planning.md) process to create your backlog and timeline
 - **Managing execution?** Reference [Execution & Tracking](octoacme-execution-and-tracking.md) for day-to-day practices and team rhythm
